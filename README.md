@@ -46,7 +46,7 @@ If you have questions, feature requests or a bug you want to report, please clic
 
 Like what you see? Keep me awake at night by buying me a coffee or two.
 
-<a href="https://www.buymeacoffee.com/yilber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/yilber" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffee" width="217" height="51"></a>
 
 ## License
 
